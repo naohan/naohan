@@ -96,20 +96,6 @@ con sueño y fatiga.
 
 🔗 [Repository](https://github.com/naohan/backend_medicion-descanso)
 
----
-
-# 📊 GitHub Stats
-
-<p align="center">
-  <img 
-    src="https://github-readme-stats.vercel.app/api?username=naohan&show_icons=true&theme=transparent&hide_border=true"
-    height="170"
-  />
-  <img 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=naohan&layout=compact&theme=transparent&hide_border=true"
-    height="170"
-  />
-</p>
 
 ---
 
