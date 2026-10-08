@@ -2,7 +2,7 @@
 
 ### Backend Developer | Python · FastAPI · APIs REST · SQL | Data & AI
 
-📍 Arequipa, Perú · Disponible para oportunidades remotas, híbridas o presenciales
+📍 Arequipa, Perú · Open to remote software development opportunities
 
 Soy desarrolladora de software egresada de TECSUP, enfocada en **backend con Python**, desarrollo de **APIs REST**, bases de datos y soluciones orientadas a datos e inteligencia artificial.
 
