@@ -175,18 +175,16 @@ Propuesta que reúne en un solo portal los servicios del SAT de Lima que hoy est
 
 📱 App publicada en Google Play · Líder del proyecto
 
-Plataforma de control y fiscalización de mototaxis con evidencia fotográfica.
+App móvil para que los inspectores municipales registren en campo las fiscalizaciones de mototaxis, con fotos, documentos y actas.
 
 **Qué desarrollé**
-- App Android en Kotlin con Jetpack Compose para los fiscalizadores en campo
-- Inicio de sesión y sesión guardada con DataStore
-- Envío periódico de ubicación GPS
-- Consumo de API REST con Retrofit y comunicación en tiempo real con Socket.IO
-- Correcciones puntuales en la plataforma web en la etapa final
+- Lideré el proyecto en un equipo de tres personas
+- Desarrollé sola la app móvil en Flutter, publicada en Google Play
+- Integración con la API REST del backend, desarrollado por un compañero
 
-**Stack:** Kotlin · Jetpack Compose · Retrofit · Socket.IO · APIs REST
+**Stack:** Flutter · APIs REST
 
-🔗 [Repositorio](https://github.com/naohan/FiscamotoGPS) · 📲 [Google Play](https://play.google.com/store/apps/details?id=com.munilajoya.fiscamoto)
+📲 [Google Play](https://play.google.com/store/apps/details?id=com.munilajoya.fiscamoto)
 
 ---
 
