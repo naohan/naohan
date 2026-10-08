@@ -167,7 +167,7 @@ Propuesta que reúne en un solo portal los servicios del SAT de Lima que hoy est
 
 **Stack:** React · TypeScript · Vite
 
-🔗 [Repositorio](https://github.com/naohan/SAT)
+🔗 [Repositorio](https://github.com/naohan/SAT) · 🌐 [Demo](https://sat-flame.vercel.app)
 
 ---
 
@@ -190,12 +190,12 @@ Plataforma de control y fiscalización de mototaxis con evidencia fotográfica.
 
 ---
 
-# 🎯 Actualmente aprendiendo
+## 🎯 Enfoque profesional
 
-- 🤖 Sistemas de IA: RAG, agentes y LLMs
-- 📊 Análisis e ingeniería de datos
-- ☁️ Cloud
-- 🔐 Ciberseguridad
+- 🤖 **IA aplicada:** RAG, agentes y LLMs
+- 📊 **Datos:** análisis, procesamiento e ingeniería de datos
+- ⚙️ **Backend:** APIs REST, FastAPI, arquitectura y bases de datos
+- ☁️ **Cloud & DevOps:** Docker, despliegue y servicios cloud
 
 ---
 
